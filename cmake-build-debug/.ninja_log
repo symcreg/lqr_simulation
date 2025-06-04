@@ -1,0 +1,6 @@
+# ninja log v6
+13740	27412	7707350393741785	lqr_tracking.exe	87d940549a9e34b3
+29	13739	7707350256632750	CMakeFiles/lqr_tracking.dir/main.cpp.obj	5532f4390e2e3dba
+9	454	7707397391151028	build.ninja	c7a5a6d4c1a3b816
+28	14390	7707397392737789	CMakeFiles/lqr_tracking.dir/lqr.cpp.obj	1d18bdf449346edd
+14392	28350	7707397536375117	lqr_tracking.exe	c51aa00b350d1ec3
